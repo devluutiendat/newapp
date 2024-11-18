@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\doanc#\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\doanc#\\WindowsFormsApp1\\windowsformsapp1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\doanc#\\windowsformsapp1\\windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B677FA-7EB3-46EB-8400-A7B02AD7E82F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clients.cs [Design]",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\clients.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\clients.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\clients.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\clients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:23:25.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thongke.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\thongke.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\thongke.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\thongke.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\thongke.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:19:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dangnhap.Designer.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\dangnhap.Designer.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\dangnhap.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:11:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\menu.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\menu.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:51:06.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employee.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\employee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\employee.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\employee.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:46:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dangnhap.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\dangnhap.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\dangnhap.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:46:00.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\dangnhap.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\dangnhap.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:45:51.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "db.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\db.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\db.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\db.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\db.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:14:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clients.cs",
+              "DocumentMoniker": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\clients.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\clients.cs",
+              "ToolTip": "D:\\doanc#\\WindowsFormsApp1\\WindowsFormsApp1\\clients.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\clients.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwKkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:20:48.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clients.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dangnhap.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.employee.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.phongx.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.service.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongke.resources
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\doanc#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
